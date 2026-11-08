@@ -1,7 +1,7 @@
 # disaster-tweets
 
 - ## 数据来源：
-     kaggle：[https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data](https://www.kaggle.com/competitions/nlp-getting-started/data)
+     kaggle：(https://www.kaggle.com/competitions/nlp-getting-started/data)
 
 - ## 目标：
      判断测试集中的推文样本是否为灾难推文
